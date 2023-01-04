@@ -10,7 +10,6 @@
 // Output: 3
 //EXPLAINATION IS IN THIS LINK
 https://drive.google.com/drive/u/0/folders/1brHxYxXGmy7BJhaD8SrufEW_OiT4VQki
-
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
